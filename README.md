@@ -5,6 +5,8 @@
   <li>Til record begin</li>
   <li>basic swiftUI Introduction</li>
   <li>UI Inspector</li>
+  <li>Customize Text view</li>
+  <li>combine Views Using Stack</li>
   <li></li>
   </ul>
   <hr/>
