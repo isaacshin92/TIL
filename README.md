@@ -8,13 +8,20 @@
   <li></li>
   </ul> -->
   <h3>SwiftUI</h3>
+<p>- 2022.03.12 - </p>  
   <ul>
   <li>Til record begin</li>
   <li>basic swiftUI Introduction</li>
   <li>UI Inspector</li>
   <li>Customize Text view</li>
   <li>combine Views Using Stack</li>
+  </ul>
+  <p>- 2022.03.14 - </p>
+  <ul>
   <li>Combining views</li>
+  <li>List and navigateView and link</li>
+  <li>passing date to detail view</li>
+  <li>scrollview apply</li>
   </ul>
   <hr/>
  <h3>Spring</h3> 
