@@ -30,3 +30,12 @@
   <li></li>
   <li></li>
   </ul>
+ <hr/>
+ <h3>Spring Security</h3> 
+  <ul>
+  <li>basic security setting</li>
+  <li>configuration setting</li>
+  <li>auth checking through pattern matcher</li>
+  <li>user check. combining userInfo</li>
+  </ul>
+
