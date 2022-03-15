@@ -23,6 +23,13 @@
   <li>passing date to detail view</li>
   <li>scrollview apply</li>
   </ul>
+  <p>- 2022.03.15 - </p>
+    <ul>
+  <li>environmentObject with @published</li>
+  <li>List Filter</li>
+  <li>toggle button with user controllable boolean value </li>
+  <li></li>
+  </ul> -->
   <hr/>
  <h3>Spring</h3> 
   <ul>
