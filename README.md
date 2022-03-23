@@ -33,7 +33,12 @@
   <hr/>
   <h3>Swift(StoryBoard)</h3>
   <ul>
+  <li>ImageView</li>
+  <li>datePicker</li>
+  <li>pickerview</li>
   <li></li>
+  <li></li>
+  
   </ul>
   <hr/>
  <h3>Spring</h3>
