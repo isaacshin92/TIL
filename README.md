@@ -28,7 +28,6 @@
   <li>environmentObject with @published</li>
   <li>List Filter</li>
   <li>toggle button with user controllable boolean value </li>
-  <li></li>
   </ul> -->
   <hr/>
   <h3>Swift(StoryBoard)</h3>
@@ -37,8 +36,6 @@
   <li>ImageView</li>
   <li>datePicker</li>
   <li>pickerview</li>
-  <li></li>
-  <li></li>
   </ul>
     <p>- 2022.03.23 </p>
       <ul>
@@ -49,7 +46,6 @@
       <p>- 2022.03.28 </p>
       <ul>
   <li>MapKi</li>
-  <li></li>
   </ul>
   
   <hr/>
@@ -58,7 +54,6 @@
   <ul>
   <li>@Scheduled Annotation sample test</li>
   <li>data jpa pagable sample test</li>
-  <li></li>
   </ul>
  <hr/>
  <h3>Spring Security</h3> 
