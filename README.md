@@ -28,7 +28,7 @@
   <li>environmentObject with @published</li>
   <li>List Filter</li>
   <li>toggle button with user controllable boolean value </li>
-  </ul> -->
+  </ul> 
   <hr/>
   <h3>Swift(StoryBoard)</h3>
   <p>- 2022.03.23 </p>
@@ -41,7 +41,6 @@
       <ul>
   <li>How to create Alert</li>
   <li>Basic WebKit usage intro</li>
-  <li></li>
   </ul>
       <p>- 2022.03.28 </p>
       <ul>
