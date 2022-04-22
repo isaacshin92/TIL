@@ -8,6 +8,7 @@
   <li></li>
   </ul> -->
   <h3>Python</h3>
+  <p>- 2022.04.23- </p>  
   <ul>
   <li>algorithm question related to list</li>
   <li>
