@@ -7,6 +7,10 @@
   <li></li>
   <li></li>
   </ul> -->
+  <h3>Python</h3>
+  <ul>
+  <li>algorithm question related to list</li>
+  <li>
   <h3>SwiftUI</h3>
 <p>- 2022.03.12 - </p>  
   <ul>
