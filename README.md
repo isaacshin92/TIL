@@ -12,6 +12,10 @@
   <ul>
   <li>algorithm question related to list</li>
   <li>
+      <p>- 2022.04.24- </p>  
+  <ul>
+  <li>[algorithm] getting the Subsets of a list and comparing its sum </li>
+  <li>
   <h3>SwiftUI</h3>
 <p>- 2022.03.12 - </p>  
   <ul>
