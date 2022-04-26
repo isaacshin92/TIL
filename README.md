@@ -16,6 +16,11 @@
   <ul>
   <li>[algorithm] getting the Subsets of a list and comparing its sum </li>
   </ul>
+    <p>- 2022.04.26- </p>  
+  <ul>
+  <li>[algorithm]brute search </li>
+  <li>[algorithm]boyer moore </li>
+  </ul>
   <h3>SwiftUI</h3>
 <p>- 2022.03.12 - </p>  
   <ul>
