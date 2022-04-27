@@ -21,6 +21,11 @@
   <li>[algorithm]brute search </li>
   <li>[algorithm]boyer moore </li>
   </ul>
+   <p>- 2022.04.27- </p>  
+  <ul>
+  <li>[algorithm]Stact</li>
+  <li>[algorithm]DFS </li>
+  </ul>
   <h3>SwiftUI</h3>
 <p>- 2022.03.12 - </p>  
   <ul>
